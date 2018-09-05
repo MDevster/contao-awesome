@@ -113,3 +113,4 @@ This is the official Contao Cms theme store. If you need a theme, this is the of
 - http://contaobestthemes.silbersaiten.de/35-contao-themes
 - https://www.contao-theme.de/
 - https://erdmann-freunde.de/produkte/contao-themes/
+- https://contao-themes.net/
